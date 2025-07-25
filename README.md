@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanika Pal</h1>
 <h3 align="center">Blending creativity and code to solve real-world problems.</h3>
 
-- 🌱 I’m currently learning **React, Next.js**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **palkanika22@gmail.com**
 
